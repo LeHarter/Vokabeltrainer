@@ -1,0 +1,22 @@
+Stammbaum	a árvore geneológica
+Schwiegervater	o sogro
+Schwiegermutter	a sogra
+Schwägerin	a cunhada
+Schwager	o cunhado
+Ehemann	o marido
+Ehefrau	a mulher
+Tocher	a filha
+Sohn	o filho
+Enkel	o neto
+Enkelin	a neta
+Schwester	a irmã
+Bruder	o irmão
+Neffe	o sobrinho
+Nichte	a sobrinha
+Mutter	a mãe
+Vater	o pai
+Tante	a tia
+Onkel	o tio
+Cousine	a prima
+Großmutter	a avó
+Großvater	o avô

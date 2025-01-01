@@ -1,0 +1,89 @@
+Was?	O que?
+Wie?	Como?
+Wie lange?	Quanto tempo?
+Wo?	Onde?
+Wann?	Quando?
+Welcher?	Qual?
+Wer?	Quem?
+unverheiratet	solteiro/-a
+verheiratet	casado/-a
+geschieden	divorciado/-a
+getrennt	separado/-a
+verwitwet	viúvo/-a
+Januar	janeiro
+Februar	fevereiro
+März	março
+April	abril
+Mai	maio
+Juni	junho
+Juli	julho
+August	agosto
+September	setembro
+Oktober	outubro
+November	novembro
+Dezember	dezembro
+Fado, Schicksal	o fado
+liegt in der Luft	está no ar
+Luft	o ar
+Fadosänger	o/a fadista
+klar	claro
+Beruf	a pfofissão
+singen	cantar
+heute	hoje
+verliebt	enamorado/-a
+morgen	amanhã
+enttäuscht	desenganado/-a
+so	assim
+Leben	a vida
+Sprache	a lingua
+aber sicher	com certeza
+heißen	chamar-se
+Was wünschen Sie?	O que deseja?
+halb	meio/-a
+Schrift	a escrita
+sehr schlecht	péssimo/-a
+uterrichten	ensinar
+Ausländer	o/a estrageiro/-a
+Englisch	inglês
+Französich	francês
+Spanisch	espanhol
+Kurs	o curso
+alle Niveus	todos os niveis
+Lehrer	o professor
+von der	da
+kompetent	competente
+immer	sempre
+gut gelaunt	bem disposto/-a
+Tag	o dia
+Glück	a sorte
+für Fortgeschrittene	para avançado
+möglich	possível
+machen	fazer
+Einschreibung	inscricão
+noch	ainda
+Nachname	o apelido
+letzter	último/-a
+Vorname, Name	o nome
+holländisch	holandês
+meine	a minha
+Staatsangehörigkeit	a nacionalidade
+Mischung, Verbindung	combinação
+Ich kann kein Deutsch.	Não sei alemão.
+Wie schreibt man das?	Como se escreve?
+Familienstand	o estado civil
+Mädchen, Fräulein	a menina
+bis	até
+zu(m)	ao
+Weihnachten	o Natal
+schwierig	dificil
+nicht war	não é verdade?
+Straße	a rua
+Telefon	o telefone
+Nummer, Zahl	o número
+jetzt	agora
+fehlen	faltar
+Geburtsdatum	a data de nascimento
+Ort	o lugar
+Glückwunsch!	felicidades!
+Schüler	o/a aluno/-a
+Schule	a escola

@@ -1,0 +1,48 @@
+Einkaufsliste	a lista de compras
+Gramm	o grama
+Käse	o queijo
+Liter	o litro
+gekochter Schinken	o fiambre
+roher Schinken	o presunto
+Holzofen-Brot	o pão caseiro
+Brot	o pão
+hausgemacht	caseiro/-a
+Päckchen	a pacote
+Butter	a manteiga
+5-Liter-Flasche	o garrafão
+Portwein	o Vinho do Porto
+Tafel (Schokolade)	a tablete
+Schokolade	o chocolate
+Dose	a lata
+Thunfisch	o atum
+Beutel, Sack	o saco
+Kartoffel	a batata
+ein halbes Dutzend	meia dúzia
+Ei	o ovo
+Scheibe	a fatia
+Joghurt	o iogurte
+kleiner Kopfsalat	a alfacinha
+Angebote der Woche	as promoções da semana
+Orangensaft	o sumo de laranja
+Saft	o sumo
+Orange	a laranja
+Sonne	o sol
+Stockfisch	o bacalhau
+ein Stück …	um pedaço de
+Bäckerei	a padaria
+Konditorei	a pastelaria
+Banane	a banana
+Birne	a pera
+Erdbeere	o morango
+Melone	o melão
+Pfirsich	o pêssego
+Zitrone	o limão
+Zwiebel	a cebola
+Paprika	o pimento
+Knoblauch	o alho
+Tomate	o tomate
+Kohl	o couve
+Reis	o arroz
+Nudeln	a massa
+teuer	caro/-a
+billig	barato/-a

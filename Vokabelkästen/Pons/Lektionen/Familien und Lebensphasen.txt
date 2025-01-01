@@ -1,0 +1,25 @@
+Baby	o/a bebé
+Kind	a criança
+Herr	Senhor
+Mann	o homem
+Jugendliche/r	o/a jovem
+die Zwillinge	os gémeos
+Frau	a mulher
+Frau (Anrede)	Senhora
+Junge	o rapaz
+Mädchen	a rapariga
+Freunde	os amigos
+der/die Bekannte	o/a conhecido/a
+Paar	o casal
+Freundin	a namorada
+Freund	o namorado
+Erwachsener	o adulto
+Geschwister	os irmãos
+Patenonkel	o padrinho
+Patentante	a madrinha
+Stiefvater	o padrasto
+Stiefmutter	a madrasta
+Stiefbruder	o meio-irmão
+Stiefschwester	a meia-irmãa
+Nachbar	o vizinho
+Nachbarin	a vizinha

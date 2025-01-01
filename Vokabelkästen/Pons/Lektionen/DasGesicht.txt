@@ -1,0 +1,23 @@
+Haar	o cabelo
+Stirn	a testa
+Ohr	a erelha
+Schläfe	a têmpora
+Wange	a bochecha
+Unterkiefer	o maxilar inferior
+Kinn	o queixo
+Mund	a boca
+Lippe	o lábio
+Zahn	o dente
+Nasenloch	a narina
+Nase	o nariz
+Auge	o olho
+Wimper	a pestana
+Augenbraue	a sobrancelha
+eine Grimasse schneiden	fazer caretas
+Haut	a pele
+Falte	a ruga
+Muttermal	o sinal
+Grübchen	a covinha
+Sommersprossen	as sardas
+Poren	os poros
+Pickel	a borbulha

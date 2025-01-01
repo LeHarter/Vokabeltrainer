@@ -1,0 +1,122 @@
+Kino	o cinema
+und	e
+Licht	a luz
+Schatten	a sombra
+Premiere	a estreia
+Lissabon	Lisboa
+Hauptstadt	a capital
+Regisseur	o realizador
+vorstellen	apresentar
+Stadt	a cidade
+von	de
+Person	a pessoa
+Sehenswürdigkeit	o monumento
+Fluss	o rio
+Tejo	o Tejo
+Film	o filme
+dauern	demorar
+dreißig	trinta
+Minute	o minuto
+Student	o/a estudante
+Eintritt	entrada
+ist	é
+sein	ser
+gratis, frei	gratuito/-a
+hallo	óla
+willkommen	bem-vindo/-a
+sprich!	fals
+langsamer	mais devegar
+zu Hause	em casa
+Haus	a casa
+deutsch	alemão
+entschuldige!	desculpa
+sich entschuldigen	desculpar-se
+Das stimmt.	É verdade.
+deine	a tua
+Mutter	a mãe
+Portugiesin	portuguesa
+aber	mas
+dein Vater	o teu pai
+leben, wohnen	morar
+Deutschland	a Alemanha
+gut	pronto
+dort	ali
+ist	está
+Bus	o autocarro
+tragen	levar
+Koffer	a mala
+ja	sim
+sehr	muito
+nett	simpático
+Fahrer	condutor
+drei	três
+Fahrkarte	o bilhete
+Stadtzentrum	a Baixa
+Wie viel?	Quanto?
+mehr oder weniger, circa	mais ou menos
+wie schnell!	que rapido!
+also, dann	então
+gut, angehem	bom, boa
+sein	estar
+wunderbar	maravilhoso\-a
+ankommen	chegar
+nach, bis	a
+Tante	a tia
+Cousin	o primo
+sie erwarten sie	esperam-na
+im	no
+Flughafen	o aeroporto
+guten Tag	bom dia
+Wie geht es dir?	como estás?
+Alles in Ordnung?	tudo bem?
+prima	ótimo
+danke	obrigado/-a
+Wie war die Reise?	Como foi a viagem?
+ausgezeichnet	excelente
+es sind	são
+nur	só
+Stunde	a hora
+Flug	o voo
+Köln	Colónia
+wenig	pouco/-a
+Zeit	tempo
+nein	não
+müde	cansado/-a
+bitte	por favor
+sprechen	falar
+sprich!	fala
+langsamer	mais devegar
+zu Hause	em casa
+Haus	a casa
+deutsch	alemão
+entschuldige!	desculpa
+Das stimmt.	É verdade.
+deine	a tua
+Mutter	a mãe
+Portugiesin	portuguesa
+aber	mas
+dein Vater	o teu pai
+leben, wohnen	morar
+Deutschland	a Alemanha
+gut	pronto
+dort	ali
+er/sie ist	está
+Bus	o autocarro
+tragen	levar
+Koffer	a mala
+ja	sim
+sehr	muito
+nett	simpático
+Fahrer	condutor
+drei	três
+Fahrkarte	o bilhete
+Stadtzentrum	a Baixa
+Wie viel?	Quanto?
+mehr oder weniger	mais ou menos
+zehn	dez
+wie schnell!	que rápido!
+also, dann	então
+gut, angenehm	bom,boa
+sein	estar
+wunderbar	maravilhoso/-a
+
