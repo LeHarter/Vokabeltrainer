@@ -4,6 +4,7 @@ import os
 from PIL import Image, ImageTk
 import random
 from argparse import ArgumentParser
+import subprocess
 
 """
 parser = ArgumentParser()
@@ -11,7 +12,11 @@ parser.add_argument("vokabelkasten", type=str)
 args = parser.parse_args()
 vokabelkasten = args.vokabelkasten
 """
-vokabelkasten="Krimi"
+
+subprocess.run(["git","pull","https://github.com/LeHarter/Vokabeltrainer"])
+for i in os.listdir("Vokabelkästen/"):
+    print(i)
+vokabelkasten= input("Mit welchem Vokabelkasten möchtest Du arbeiten?")
 
 os.chdir("Vokabelkästen/"+vokabelkasten)
 
@@ -221,16 +226,16 @@ def gothrough():
             
     file = "Lektionen/"+lektion_variable.get()+".txt"
     vokabelkasten = eval(open("Vokabelkasten.txt","r",encoding="utf-8").readlines()[0])
+    vokabelkasten2 = {x:[] for x in range(1,STUFEN+1)}
     with open(file,"r",encoding="utf-8") as f:
         for line in f:
             w1,w2 = line.strip().split("\t")
             
-            vokabelkasten[1].append((w1,w2))
+            vokabelkasten2[1].append((w1,w2))
 
 
-    #vokabelkasten2 = {x:[] for x in range(1,STUFEN+1)}
     wordlist = set()
-    for st in vokabelkasten:
+    for st in vokabelkasten2:
         for word1,word2 in vokabelkasten[st]:
             wordlist.add((word1,word2,st))
     wordlist = list(wordlist)
@@ -250,11 +255,16 @@ def gothrough():
     with open("Vokabelkasten.txt","w",encoding="utf-8") as v:
         v.write(str(vokabelkasten))
 
+def beenden():
+    subprocess.run(["git","push","https://github.com/LeHarter/Vokabeltrainer"])
+    root.destroy
+
 lektionen_aktualisieren()
 ttk.Button(frm,text="Create Lection",command=createLection,style="button.TButton").grid(column=0,row=0)
 ttk.Button(frm,text="Start Training",command=train,style="button.TButton").grid(column=1,row=0)
 ttk.Button(frm,text="sollte wiederholt werden",command=gothrough,style="button.TButton").grid(column=2,row=0)
 ttk.Button(frm,text="Lege Lektion in Vokabelkasten",command=loadLektion,style="button.TButton").grid(column=1,row=1)
 ttk.Button(frm,text="Show Progress",command=showProgress,style="button.TButton").grid(column=0,row=1)
-ttk.Button(frm, text="Quit", command=root.destroy,style="button.TButton").grid(column=1, row=3)
+ttk.Button(frm, text="Quit", command=beenden,style="button.TButton").grid(column=1, row=3)
 root.mainloop()
+    
